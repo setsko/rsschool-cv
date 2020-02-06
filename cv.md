@@ -19,7 +19,7 @@ Dependable and organized team player being able to communicate effectively and e
 
 <b>April 2019 - Current</b> - Energy Engineer, Production Unitary Enterprise "Donapris"
 
- <strong> <em> Education </em></strong>
+ > <strong> <em> Education </em></strong>
 
 <b>2013-2018 </b>
      Gomel'ski Dzjaržauny Tehnièny Universitet imja P.O. Suhogo
